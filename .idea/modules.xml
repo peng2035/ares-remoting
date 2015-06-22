@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AresRemoting.iml" filepath="$PROJECT_DIR$/AresRemoting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ares_client/ares_client.iml" filepath="$PROJECT_DIR$/ares_client/ares_client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ares_common/ares_common.iml" filepath="$PROJECT_DIR$/ares_common/ares_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ares_server/ares_server.iml" filepath="$PROJECT_DIR$/ares_server/ares_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ares_service/ares_service.iml" filepath="$PROJECT_DIR$/ares_service/ares_service.iml" />
+    </modules>
+  </component>
+</project>
