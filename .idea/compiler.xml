@@ -22,10 +22,17 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="AresRemoting" />
+        <module name="ares_client" />
+        <module name="ares_common" />
+        <module name="ares_server" />
+        <module name="ares_service" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="ares_client" target="1.5" />
+      <module name="ares_common" target="1.5" />
+      <module name="ares_server" target="1.5" />
+      <module name="ares_service" target="1.5" />
       <module name="AresRemoting" target="1.5" />
     </bytecodeTargetLevel>
   </component>
